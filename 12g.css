@@ -1,0 +1,36 @@
+.text{
+    width: 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 20px;
+    border: none;
+
+}
+.download-button{
+    background-color: rgb(120, 82, 187);
+    font-size: 14px;
+    border-radius: 2px;
+    border-width: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-color: white;
+    color: white;
+    
+}
+.flex-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(120, 82, 178);
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

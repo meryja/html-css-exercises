@@ -1,0 +1,15 @@
+.grid{
+   
+    display: grid;
+    
+    grid-template-columns: 200px 75px;
+
+}
+.para{
+    
+    
+    background-color: rgb(255, 140, 255);
+}
+.par{
+    background-color: aqua;
+}

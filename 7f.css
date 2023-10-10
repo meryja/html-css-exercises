@@ -1,0 +1,38 @@
+p{
+    font-size: 18px;
+    color:  rgb(111, 111, 126);
+    font-family: Arial;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+}
+.text-box{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    width: 400px;
+    font-size: 20px;
+    border-radius:10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 18px;
+
+
+}
+.join-button{
+    background-color: rgb(38, 141, 238);
+    color: white;
+    font-size: 18px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    width: 400px;
+
+}

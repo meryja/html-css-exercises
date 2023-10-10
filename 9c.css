@@ -1,0 +1,28 @@
+.content{
+    font-size: 18px;
+    font-family: arial;
+    
+}
+.yes-button{
+    background-color:rgb(204, 198, 198);
+    width: 30px;
+    border-color: rgb(204, 198, 198);
+    border-style: solid;
+}
+.no-button{
+    background-color: rgb(204, 198, 198);
+    width: 30px;
+    border-color: rgb(204, 198, 198);
+    border-style: solid;
+}
+.box{
+    border-style: solid;
+    border-color:rgb(204, 198, 198);
+    height: 100px;
+    width: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-width: 1px;
+}
